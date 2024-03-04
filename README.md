@@ -2,6 +2,6 @@
 
 Lang: Go,C#,C,Java,html/css,T-SQL
 
-Waiting for something happen...
+Waiting for something to happen...
 
 
