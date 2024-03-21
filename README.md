@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 Lang: Go,C#,C,Java,html/css,T-SQL
 
